@@ -1,5 +1,5 @@
 # UserAPI
-A simple NodeJs Api using MongoDB and TypeScript 
+A simple NodeJs API using Express, Mongoose (MongoDB) and TypeScript. 
 
 To configure MongoDb connection update "MONGO_URL" constant value inside the "src/constants/userApi.constants.ts" file.
 
